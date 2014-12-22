@@ -1,0 +1,15 @@
+
+pre {
+  border:1px solid #000;
+  overflow-x:auto;
+  background: #222;
+  color: #fff;
+  text-shadow: none;
+}
+
+.wrapper {
+    max-width: 904px;
+    margin: 17px auto 0;
+    /*position: relative;*/
+    /*top: -394px;*/
+}
